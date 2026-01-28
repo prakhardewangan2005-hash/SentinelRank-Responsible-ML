@@ -1,3 +1,5 @@
+> 🔒 Responsible AI first • Human-in-the-loop • Interpretable baseline
+
 ## Responsible AI
 
 ### 🔗 Live Demo
@@ -37,3 +39,4 @@ This ensures critical or uncertain cases are reviewed by a human agent.
 - Evaluate fairness gaps with statistical confidence intervals.
 
 - Replace baseline rules with trained ML models while preserving explainability.
+
