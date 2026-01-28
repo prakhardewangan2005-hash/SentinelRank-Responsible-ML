@@ -1,5 +1,8 @@
 ## Responsible AI
 
+### 🔗 Live Demo
+https://prakhardewangan2005-hash.github.io/SentinelRank-Responsible-ML/
+
 This project follows Microsoft-aligned Responsible AI principles and is designed as a **decision-support system**, not a fully automated decision-maker.
 
 ### Intended Use
@@ -32,4 +35,5 @@ This ensures critical or uncertain cases are reviewed by a human agent.
 ### Next Steps
 - Add ground-truth outcomes and calibrate confidence.
 - Evaluate fairness gaps with statistical confidence intervals.
+
 - Replace baseline rules with trained ML models while preserving explainability.
